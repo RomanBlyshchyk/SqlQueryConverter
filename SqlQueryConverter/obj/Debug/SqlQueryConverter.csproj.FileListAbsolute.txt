@@ -1,0 +1,9 @@
+C:\Development\VS2015\Projects\MobileQueryConverter\SqlQueryConverter\obj\Debug\MobileQueryConverter.QueryConverter.resources
+C:\Development\VS2015\Projects\MobileQueryConverter\SqlQueryConverter\obj\Debug\SqlQueryConverter.csproj.GenerateResource.Cache
+C:\Development\VS2015\Projects\MobileQueryConverter\SqlQueryConverter\bin\Debug\SqlQueryConverter.exe.config
+C:\Development\VS2015\Projects\MobileQueryConverter\SqlQueryConverter\bin\Debug\SqlQueryConverter.exe
+C:\Development\VS2015\Projects\MobileQueryConverter\SqlQueryConverter\bin\Debug\SqlQueryConverter.pdb
+C:\Development\VS2015\Projects\MobileQueryConverter\SqlQueryConverter\obj\Debug\SqlQueryConverter.csprojResolveAssemblyReference.cache
+C:\Development\VS2015\Projects\MobileQueryConverter\SqlQueryConverter\obj\Debug\SqlQueryConverter.Properties.Resources.resources
+C:\Development\VS2015\Projects\MobileQueryConverter\SqlQueryConverter\obj\Debug\SqlQueryConverter.exe
+C:\Development\VS2015\Projects\MobileQueryConverter\SqlQueryConverter\obj\Debug\SqlQueryConverter.pdb
